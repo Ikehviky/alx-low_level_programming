@@ -1,1 +1,1 @@
-alx read me 
+This is a README file for the singly_linked_lists folder
