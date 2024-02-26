@@ -35,4 +35,8 @@ int main(void)
     array_iterator(array, 5, &print_elem);
     array_iterator(array, 5, &print_elem_hex);
     return (0);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0d839941faa200b33c43b27740682eb969093495
