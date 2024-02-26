@@ -52,8 +52,4 @@ int main(void)
     index = int_index(array, 20, is_strictly_positive);
     printf("%d\n", index);
     return (0);
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 0d839941faa200b33c43b27740682eb969093495

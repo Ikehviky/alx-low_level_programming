@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #ifndef _MAIN_H_
 #define _MAIN_H_
 
@@ -10,8 +9,3 @@ void free_grid(int **grid, int height);
 char *argstostr(int ac, char **av);
 
 #endif
-=======
-char *_strdup(char *str);
-void free_grid(int **grid, int height);
-char **strtow(char *str);
->>>>>>> 0d839941faa200b33c43b27740682eb969093495
