@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# This script fixes a bug in your nginx server, allowing it to connect to port 80.
+ln -sf /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+service nginx start
+rm /run/nginx.pid
